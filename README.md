@@ -1,3 +1,3 @@
 # Bankamatik-Projesi
 
-Proje'de eksik olan yerler mevcuttur. İleri ki zaman da tamamlanacaktır.
+Proje'de eksik olan yerler mevcuttur. İleriki zaman da tamamlanacaktır.
